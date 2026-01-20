@@ -63,6 +63,7 @@ Normalized using percentile ranks and aggregated with equal weights.
 ---
 
 ##  How to Run
+#ALL THE MAIN CSV FILES GIVEN BY UIDAI SHOULD IN THE SAME FOLDER TO RUN THESE CODE FILES
 ```bash
 python Enrollment/Enrollment\ codes/EDA.py
 python Biometrics/Biometrics\ Codes/EDA.py
